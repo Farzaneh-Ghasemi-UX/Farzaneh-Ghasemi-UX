@@ -69,9 +69,8 @@ https://github.com/user-attachments/assets/23ebd67d-16eb-431b-8bc9-d5a0d5879d11
 <p dir="auto">This project is a digital version of menu that customers can access using their smartphones.Visit this on <a href="https://penqui.com/" rel="nofollow">Penqui</a>.
 </p>
 
-  <p dir="auto">
 ![falcon1-4-2000x1334-2-1030x687-1](https://github.com/user-attachments/assets/028817af-1b00-44b4-8854-a6f9370a4c3d)
  
 ![v1-9205-2000x1333-1-1030x686-1](https://github.com/user-attachments/assets/3d65598f-56d1-4825-b93b-3ea5ab88219f)
 
-</p>
+
