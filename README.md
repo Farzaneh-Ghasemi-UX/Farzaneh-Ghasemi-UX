@@ -39,7 +39,10 @@
 
 <p dir="auto">This software streamlines back-office operations and financial management, offering a user-friendly interface designed with Figma for efficiency and clarity. Visit this on <a href="https://loofnex.de/" rel="nofollow">Loofnex</a>.
 </p>
-![image_original](https://github.com/user-attachments/assets/82ff1090-eae6-4ebd-aa0a-84557d6b0b8a)
+
+<p dir="auto">
+ <a target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/82ff1090-eae6-4ebd-aa0a-84557d6b0b8a"><img src="https://github.com/user-attachments/assets/82ff1090-eae6-4ebd-aa0a-84557d6b0b8a" alt="drawing" width="195px" height="400px" style="max-width: 100%;"></a>  
+
 ![image_original2](https://github.com/user-attachments/assets/f827b1db-f498-4659-be2a-601dfd0523af)
 
 </p> 
