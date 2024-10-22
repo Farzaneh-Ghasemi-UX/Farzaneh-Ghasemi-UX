@@ -33,4 +33,19 @@
 </p>
 
 
-  
+ <div class="markdown-heading" dir="auto">
+  <h2 tabindex="-1" class="heading-element" dir="auto">Loofnex</h2> 
+</div>
+
+<p dir="auto">This software streamlines back-office operations and financial management, offering a user-friendly interface designed with Figma for efficiency and clarity. Visit this on <a href="https://loofnex.de/" rel="nofollow">QR MENU</a>.
+</p>
+
+  ![qr-menu](https://github.com/user-attachments/assets/406bc44c-6e2e-42a1-9e04-085dcede669c)
+
+  <p dir="auto">
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/449a4d30-4405-4fdf-b637-bd666527adb4"><img src="https://github.com/user-attachments/assets/449a4d30-4405-4fdf-b637-bd666527adb4" alt="drawing" width="195px" height="400px" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/03d4ed06-d0d3-4c22-b9e0-e74dac49f645"><img src="https://github.com/user-attachments/assets/03d4ed06-d0d3-4c22-b9e0-e74dac49f645" alt="drawing" width="195px" height="400px" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/05b74866-70f4-4808-ad2a-a0d36a933272"><img src="https://github.com/user-attachments/assets/05b74866-70f4-4808-ad2a-a0d36a933272" alt="drawing" width="195px" height="400px" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/a1ffa203-b90a-456f-9d3b-d5115d5e8c6e"><img src="https://github.com/user-attachments/assets/a1ffa203-b90a-456f-9d3b-d5115d5e8c6e" alt="drawing" width="195px" height="400px" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/e880a0e3-d66a-4d5a-a0fa-cf53b15bd842"><img src="https://github.com/user-attachments/assets/e880a0e3-d66a-4d5a-a0fa-cf53b15bd842" alt="drawing" width="195px" height="400px" style="max-width: 100%;"></a>
+</p> 
