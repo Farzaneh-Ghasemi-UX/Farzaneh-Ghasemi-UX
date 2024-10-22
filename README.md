@@ -56,6 +56,6 @@ Subtle details like light movements or soft snoring added to its appeal. This an
 
 <p dir="auto">
 
-https://github.com/user-attachments/assets/243cf0ad-e75e-42fa-acf9-1958aa65402f
+https://github.com/user-attachments/assets/23ebd67d-16eb-431b-8bc9-d5a0d5879d11
 
 </p> 
