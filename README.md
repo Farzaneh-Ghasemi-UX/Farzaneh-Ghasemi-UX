@@ -44,3 +44,18 @@
 ![image_original2](https://github.com/user-attachments/assets/f827b1db-f498-4659-be2a-601dfd0523af)
 
 </p> 
+
+
+ <div class="markdown-heading" dir="auto">
+  <h2 tabindex="-1" class="heading-element" dir="auto">Cute Sleeping Shopping Bag Animation</h2> 
+</div>
+
+<p dir="auto">This animation is a sleepy shopping bag designed using Lottie that conveys a sense of calmness and patience while waiting to start ordering. This bag has slow, rhythmic breathing, with closed eyes and a soft smile, as if she is taking a peaceful nap. After a few seconds, she opens her eyes and looks around to make sure there is still no order.
+Subtle details like light movements or soft snoring added to its appeal. This animation is displayed on kiosks and POS systems when an order has not been shipped, letting you know that the system is idle but ready to wake up when an order is received.
+</p>
+
+<p dir="auto">
+
+https://github.com/user-attachments/assets/243cf0ad-e75e-42fa-acf9-1958aa65402f
+
+</p> 
