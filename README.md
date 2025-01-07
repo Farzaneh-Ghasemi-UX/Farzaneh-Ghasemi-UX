@@ -17,7 +17,7 @@
   <h2 tabindex="-1" class="heading-element" dir="auto">QR Menu</h2> 
 </div>
 
-<p dir="auto">This project is a digital version of menu that customers can access using their smartphones.Visit this on <a href="https://menu.lotusqrmenu.com/Home/Index" rel="nofollow">QR MENU</a>.
+<p dir="auto">This project is a digital version of menu that customers can access using their smartphones.Visit this on <a href="https://menu2.lotusqrmenu.com/" rel="nofollow">QR MENU</a>.
 </p>
 
   ![qr-menu](https://github.com/user-attachments/assets/406bc44c-6e2e-42a1-9e04-085dcede669c)
