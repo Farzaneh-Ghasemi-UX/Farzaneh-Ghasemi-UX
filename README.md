@@ -5,7 +5,7 @@
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/44722574/155881809-6dd3fd0e-90a6-43d5-aa70-26b34fe89bc5.png"><img src="https://user-images.githubusercontent.com/44722574/155881809-6dd3fd0e-90a6-43d5-aa70-26b34fe89bc5.png" alt="skills" style="max-width: 100%;"></a></p>
 </article>
 <p align="left">
-👋 Creative and dedicated UI/UX designer with a strong background in computer software engineering (Bachelor’s degree) and entrepreneurship (Master’s degree). Strong foundation in HTML, CSS, and JavaScript, combined with UI/UX design expertise. Extensive background in motion graphics and graphic design, enabling a unique perspective on web animation and interaction. I love collaborating with developers and teams to bring ideas to life.
+👋 Creative and performance-driven Front-End Developer with a strong background in building scalable, responsive, and user-friendly web interfaces. Skilled in JavaScript, TypeScript, HTML5, CSS/SCSS, and modern front-end frameworks like React and Vue. Experienced in agile teams, UI enhancement, and cross-functional collaboration. Passionate about clean code, performance optimization, and delivering seamless user experiences.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
